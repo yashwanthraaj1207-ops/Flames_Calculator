@@ -1,115 +1,214 @@
-# 🔥 FLAMES Calculator – Python Relationship Predictor
+# 🔥 FLAMES Calculator
 
-## 📌 Project Overview
+A fun and interactive Python application that predicts the relationship between two people using the classic **FLAMES Algorithm**.
 
-The FLAMES Calculator is a Python-based application that predicts the relationship between two people based on their names using the classic FLAMES algorithm.
-
-FLAMES stands for:
-
-F – Friends  
-L – Lovers  
-A – Affection  
-M – Marriage  
-E – Enemies  
-S – Siblings  
-
-This project demonstrates core Python programming concepts such as string manipulation, logical operations, and conditional statements in a fun and interactive way.
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Project Type](https://img.shields.io/badge/Project-Beginner-green)
+![Status](https://img.shields.io/badge/Status-Completed-success)
 
 ---
 
-## 🎯 Objectives
+## 📖 About the Project
 
-• Implement the FLAMES relationship prediction algorithm  
-• Practice Python string manipulation  
-• Build logic-based Python applications  
-• Improve problem-solving skills  
-• Demonstrate basic algorithm implementation  
+The FLAMES Calculator is a logic-based Python application that determines a relationship outcome based on two names.
+
+**FLAMES** stands for:
+
+| Letter | Meaning   |
+| ------ | --------- |
+| F      | Friends   |
+| L      | Lovers    |
+| A      | Affection |
+| M      | Marriage  |
+| E      | Enemies   |
+| S      | Siblings  |
+
+This project demonstrates how string manipulation, counting algorithms, and logical operations can be combined to create an engaging application.
+
+---
+
+## 🎯 Project Objectives
+
+* Understand string manipulation in Python
+* Practice algorithmic thinking
+* Develop problem-solving skills
+* Implement a real-world logic-based application
+* Strengthen Python fundamentals
 
 ---
 
 ## 🛠️ Technologies Used
 
-• Python  
-• String Manipulation  
-• Conditional Statements  
-• Basic Algorithm Logic  
+* Python
+* Jupyter Notebook
+* String Manipulation
+* Conditional Statements
+* Looping Structures
+* Algorithm Design
 
 ---
 
-## 📁 Project Structure
+## 📂 Project Structure
 
-
+```bash
 Flames_Calculator/
-
-flames.py
-Main Python program containing the FLAMES logic.
-
-README.md
-Project documentation file.
-
----
-
-## ⚙️ How the Algorithm Works
-
-Step 1: Take two names as input  
-Step 2: Remove common letters from both names  
-Step 3: Count the remaining letters  
-Step 4: Use the count to determine the FLAMES result  
-Step 5: Display the predicted relationship  
+│
+├── Flames_Calculator_App.ipynb
+├── README.md
+├── Screenshot (228).png
+├── Screenshot (229).png
+├── Screenshot (230).png
+├── Screenshot (231).png
+├── Screenshot (232).png
+└── Screenshot (233).png
+```
 
 ---
 
-## 🚀 How to Run the Project
+## ⚙️ How FLAMES Works
 
-### Step 1: Clone the repository
+### Step 1
 
+Enter two names.
 
+### Step 2
 
-### Step 2: Navigate to the folder
+Remove all common characters.
 
+### Step 3
 
-### Step 3: Run the program
+Count the remaining characters.
 
+### Step 4
 
----
+Apply the FLAMES elimination process.
 
-## 💡 Features
+### Step 5
 
-• Simple and easy-to-use program  
-• Fun relationship prediction  
-• Beginner-friendly Python project  
-• Demonstrates logic and algorithm implementation  
-
----
-
-## 💡 Skills Demonstrated
-
-• Python Programming  
-• Logic Building  
-• String Manipulation  
-• Algorithm Implementation  
+Display the final relationship result.
 
 ---
 
-## 🎓 Project Type
+## 🚀 Getting Started
 
-Python Beginner Project  
-Logic-Based Application  
+### Clone the Repository
+
+```bash
+git clone https://github.com/yashwanthraaj1207-ops/Flames_Calculator.git
+```
+
+### Navigate to the Project
+
+```bash
+cd Flames_Calculator
+```
+
+### Run the Notebook
+
+```bash
+jupyter notebook
+```
+
+Open:
+
+```bash
+Flames_Calculator_App.ipynb
+```
+
+---
+
+## 💻 Sample Output
+
+```text
+Enter First Name : Yashwanth
+Enter Second Name : Priya
+
+Relationship Result :
+❤ Lovers ❤
+```
+
+---
+
+## 📸 Screenshots
+
+### Application Interface
+
+(Add your screenshots here)
+
+* Screenshot 1
+* Screenshot 2
+* Screenshot 3
+* Screenshot 4
+* Screenshot 5
+
+---
+
+## ✨ Features
+
+* Interactive user input
+* Fast relationship prediction
+* Beginner-friendly code
+* Easy-to-understand algorithm
+* Educational and entertaining
+
+---
+
+## 🧠 Skills Demonstrated
+
+* Python Programming
+* String Operations
+* Algorithm Development
+* Logical Thinking
+* Problem Solving
+* User Input Handling
+
+---
+
+## 📈 Future Enhancements
+
+* GUI using Tkinter
+* Web Application using Flask
+* Streamlit Deployment
+* Relationship Percentage Score
+* Better User Interface
+* Mobile-Friendly Version
+
+---
+
+## 🎓 Learning Outcomes
+
+Through this project, I gained hands-on experience in:
+
+* Implementing algorithms
+* Manipulating strings
+* Building logic-based applications
+* Debugging Python programs
+* Structuring software projects
 
 ---
 
 ## 👨‍💻 Author
 
-Yashwanth Raaj  
-B.E Computer Science and Engineering (AI & ML)  
-Sri Sairam Engineering College  
+**S. Yashwanth Raaj**
 
-GitHub:  
-https://github.com/yashwanthraaj1207-ops  
+B.E Computer Science and Engineering (AI & ML)
+
+Sri Sairam Engineering College
+
+GitHub:
+https://github.com/yashwanthraaj1207-ops
+
+LinkedIn:
+(Add your LinkedIn Profile)
 
 ---
 
-## ⭐ Conclusion
+## ⭐ Support
 
-The FLAMES Calculator is a fun and educational project that demonstrates the use of Python logic and string manipulation to implement a classic relationship prediction algorithm. This project helps strengthen fundamental programming and problem-solving skills.
+If you found this project useful, consider giving it a ⭐ on GitHub.
 
+---
+
+## 📜 License
+
+This project is developed for educational and learning purposes.
