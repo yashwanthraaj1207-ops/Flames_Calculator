@@ -199,7 +199,7 @@ GitHub:
 https://github.com/yashwanthraaj1207-ops
 
 LinkedIn:
-(Add your LinkedIn Profile)
+www.linkedin.com/in/yashwanthraaj1207
 
 ---
 
